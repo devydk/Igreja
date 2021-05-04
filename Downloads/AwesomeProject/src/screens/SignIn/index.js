@@ -8,4 +8,4 @@ export default function () {
             <Text>SignIn</Text>
         </Container>
     );
-}
+};
