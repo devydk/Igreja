@@ -2,7 +2,7 @@ import React from 'react';
 import { Text } from 'react-native';
 import { Container } from './styles';
 
-export default () => {
+export default function ()  {
     return (
         <Container>
             <Text>SignUp</Text>
