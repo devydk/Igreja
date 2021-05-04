@@ -1,7 +1,7 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 
-import Preload from '../screens/Preload';
+import Preload from '../screens/Preload/index';
 import SignIn from '../screens/SignIn/index';
 import SignUp from '../screens/SignUp/index';
 
